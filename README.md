@@ -1,0 +1,1 @@
+[This](https://kramlinger.github.io/PolishCensus/main.html) notebook covers best practices in displaying spatial data, with special emphasis on phenomena when aggregating data to produce choropleth maps. I illustrate these effects on data of the 1931 Polish census and the 2015 United Kingdom general election.  
